@@ -21,6 +21,6 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?user=gDJ
 
 <ol>
  
-<p style="margin-top: 8px;"><li>Chenxin Wu, <b>Yangyan Xu<b>, and Yujun Zheng: <i><u>Water Wave Optimization with Self-adaptive Directed Propagation</u></i>. <font color="green">BIC-TA 2019</font>. (Accepted September 27. 2019)<a href = "https://link.springer.com/chapter/10.1007/978-981-15-3425-6_38">[PDF]</a></li></p>      
+<p style="margin-top: 8px;"><li> Chenxin Wu, <b>Yangyan Xu<b>, Yujun Zheng: "<i><u>Water Wave Optimization with Self-adaptive Directed Propagation</u></i>". <font color="green">BIC-TA 2019</font>. (Accepted September 27. 2019)<a href = "https://link.springer.com/chapter/10.1007/978-981-15-3425-6_38">[PDF]</a></li></p>     
 
 </ol> 
