@@ -5,7 +5,7 @@ layout: page
 # News
 <ul>
 
-<li>[<font color="red">March 21, 2020</font>]  "<b>An Adaptive Water Wave Optimization Algorithm with Enhanced Wave Interaction</b>" has been accepted by <font color="green">IEEE Congress on Evolutionary Computation (IEEE CEC) 2020</font>.</li>
+<li>[<font color="red">March 21, 2020</font>]  "<b>An Adaptive Water Wave Optimization Algorithm with Enhanced Wave Interaction</b>" has been accepted by <font color="green">IEEE Congress on Evolutionary Computation (IEEE CEC)</font>.</li>
 
 </ul>
 
