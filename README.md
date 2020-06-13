@@ -13,7 +13,7 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?user=gDJ
 
 ## Selected Publications:
 
-1. **Yangyan Xu**, Chenxin Wu, Bingbing Jiang, and Weiguo Sheng: "*An Adaptive Water Wave Optimization Algorithm with Enhanced Wave Interaction*". **IEEE Congress on Evolutionary Computation (CEC 2020)**. (Accepted Mar 21th, 2020) [[PDF]](https://wcci2020.org/)
+1. **Yangyan Xu**, Chenxin Wu, Bingbing Jiang, and Weiguo Sheng: "*An Adaptive Water Wave Optimization Algorithm with Enhanced Wave Interaction*". IEEE Congress on Evolutionary Computation (**CEC 2020**). (Accepted Mar 21th, 2020) [[PDF]](https://wcci2020.org/)
 
 2. Chenxin Wu, **Yangyan Xu**, and Yujun Zheng: "*Water Wave Optimization with Self-adaptive Directed Propagation*". International Conference on Bio-Inspired Computing: Theories and Applications (**BIC-TA 2019**) (Accepted Sep 27th, 2019)[[PDF]](https://link.springer.com/chapter/10.1007/978-981-15-3425-6_38)
 
@@ -21,7 +21,7 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?user=gDJ
 
 ### 2020
 
-1. **Yangyan Xu**, Chenxin Wu, Bingbing Jiang, and Weiguo Sheng: An Adaptive Water Wave Optimization Algorithm with Enhanced Wave Interaction. **IEEE Congress on Evolutionary Computation (CEC 2020)**. (Accepted Mar 21th, 2020) [[PDF]](https://wcci2020.org/)
+1. **Yangyan Xu**, Chenxin Wu, Bingbing Jiang, and Weiguo Sheng: An Adaptive Water Wave Optimization Algorithm with Enhanced Wave Interaction. IEEE Congress on Evolutionary Computation (**CEC 2020**). (Accepted Mar 21th, 2020) [[PDF]](https://wcci2020.org/)
 
 ### 2019
 
