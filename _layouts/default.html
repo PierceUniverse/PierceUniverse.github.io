@@ -37,7 +37,21 @@
         <p>&copy;
           {{ "now" | date: "%Y" }}</p>
       </section>
-      <!-- 不蒜子计数 -->
+      <section class="content">
+        {{ content }}
+      </section>
+    </main>
+    {%- if site.plainwhite.analytics_id -%}
+      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.plainwhite.analytics_id }}"></script>
+      <script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', '{{ site.plainwhite.analytics_id }}');
+	</script>
+    {%- endif -%}
+          <!-- 不蒜子计数 -->
       <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
       <span id="busuanzi_container_site_pv" style='display:none'>| Total visits <span id="busuanzi_value_site_pv"></span> times </span>
       <span id="busuanzi_container_site_uv" style='display:none'>| Total visitors <span id="busuanzi_value_site_uv"></span> people </span>
@@ -66,19 +80,5 @@
               
       });
       </script> 
-      <section class="content">
-        {{ content }}
-      </section>
-    </main>
-    {%- if site.plainwhite.analytics_id -%}
-      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.plainwhite.analytics_id }}"></script>
-      <script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag() { dataLayer.push(arguments); }
-		gtag('js', new Date());
-
-		gtag('config', '{{ site.plainwhite.analytics_id }}');
-	</script>
-    {%- endif -%}
   </body>
 </html>
