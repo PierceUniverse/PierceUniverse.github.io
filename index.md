@@ -11,11 +11,11 @@ layout: page
 
 # Brief Bio：
 
-Graduate student with the school of computer science, Hangzhou Normal University (HZNU), Hangzhou, Zhejiang, China. 
+Graduate student with the school of computer science, supervised by [[Weiguo Sheng]](https://hise.hznu.edu.cn/c/2017-04-11/1662391.shtml), Hangzhou Normal University (HZNU), Hangzhou, Zhejiang, China. 
 
 My research interests include evolutionary computation, machine learning and some related topics. Please drop me a message if you also have interests with me by my email: <u>xuyangyan@stu.hznu.edu.cn</u> or <u>elitespring007@gmail.com</u>.
 
-Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?user=gDJkRzwAAAAJ&hl=zh-CN)
+[[Google Scholar]](https://scholar.google.com/citations?user=gDJkRzwAAAAJ&hl=zh-CN)  [[Github]](https://github.com/PierceUniverse)  [[CV]](https://github.com/PierceUniverse)
 
 # Selected Journal Papers:
 
