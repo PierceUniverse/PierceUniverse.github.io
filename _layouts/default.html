@@ -70,6 +70,19 @@
               
       });
       </script>
+    {%- if site.plainwhite.analytics_id -%}
+      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.plainwhite.analytics_id }}"></script>
+      <script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', '{{ site.plainwhite.analytics_id }}');
+	</script>
+    {%- endif -%}
+  </body>
+
+  <body>
     <!-- 来必力City版安装代码 -->
     <div id="lv-container" data-id="city" data-uid="MTAyMC81MDU3Ni8yNzA1OQ==">
     <script type="text/javascript">
@@ -88,15 +101,5 @@
     <noscript>为正常使用来必力评论功能请激活JavaScript</noscript>
     </div>
     <!-- City版安装代码已完成 -->
-    {%- if site.plainwhite.analytics_id -%}
-      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.plainwhite.analytics_id }}"></script>
-      <script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag() { dataLayer.push(arguments); }
-		gtag('js', new Date());
-
-		gtag('config', '{{ site.plainwhite.analytics_id }}');
-	</script>
-    {%- endif -%}
   </body>
 </html>
