@@ -21,11 +21,11 @@
       <a rel="nofollow me" href="https://pierceuniverse.github.io">https://pierceuniverse.github.io</a>
 </li>
 </ul>
-<ul class="social">
-<!-- <a href="./comments.html#MessageBoard" target="_blank" class="anchor">Jump to message board</a> -->
-<!-- <a name="goto">Jump to message board</a> -->
+<!-- <ul class="social">
+<a href="./comments.html#MessageBoard" target="_blank" class="anchor">Jump to message board</a>
+<a name="goto">Jump to message board</a>
 <a href="_layouts/comments.html" target="_blank">Jump to message board</a>
-</ul>
+</ul> -->
 
 
         {%- if site.plainwhite.navigation -%}
@@ -76,6 +76,17 @@
               
       });
       </script>
+      
+<script language="javascript" type="text/javascript">
+    //跳转
+    window.location.href="comments.html";
+    window.navigate("comments.html");
+    top.location='comments.html';
+ 
+    //返回上一级
+    window.history.back(-1);
+</script>
+
     {%- if site.plainwhite.analytics_id -%}
       <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.plainwhite.analytics_id }}"></script>
       <script>
