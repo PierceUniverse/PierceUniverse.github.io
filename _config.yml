@@ -49,7 +49,7 @@ plainwhite:
 livere_uid: MTAyMC81MDU3Ni8yNzA1OQ==
 
 # Build settings
-theme: minima
+theme: plainwhite
 
 plugins:
   - jekyll-seo-tag
