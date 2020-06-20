@@ -17,11 +17,17 @@ My research interests include evolutionary computation, machine learning and som
 
 Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?user=gDJkRzwAAAAJ&hl=zh-CN)
 
-# Selected Conference Papers:
+# Selected Journal Papers:
 
 <ol>
 
 <p style="margin-top: 8px;"><li>Bingbing Jiang, Xingyu Wu, <b>Yangyan Xu</b>, Weiguo Sheng, Huanhuan Chen: <i><u>Semi-supervised feature selection with auto-weighted unlabeled samples</u></i>. <font color="green">Science China Information Sciences</font>. (CCF Rank B, under review)</li></p>
+
+</ol>
+
+# Selected Conference Papers:
+
+<ol>
 
 <p style="margin-top: 8px;"><li><b>Yangyan Xu</b>, Chenxin Wu, Bingbing Jiang, Le Yan, Weiguo Sheng: <i><u>Adaptive niching based hybrid water wave optimization for automatic data clustering</u></i>. (to be submitted)</li></p> 
 
