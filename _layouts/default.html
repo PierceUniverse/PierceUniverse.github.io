@@ -21,9 +21,9 @@
       <a rel="nofollow me" href="https://pierceuniverse.github.io">https://pierceuniverse.github.io</a>
 </li>
 </ul>
-<ul class="social">
+<!-- <ul class="social">
 <a href="./comments.html#MessageBoard" target="_blank" class="anchor">Jump to message board</a>
-</ul>
+</ul> -->
 
 
         {%- if site.plainwhite.navigation -%}
@@ -74,6 +74,21 @@
               
       });
       </script>
+
+<SCRIPT LANGUAGE="JavaScript">
+    function test(){
+        var s = document.getElementById("txt");
+        location.href="comments.html?"+"txt="+encodeURI(s.value);
+    }
+</SCRIPT>
+<body>
+
+<input type="text" id="txt">
+</br>
+<input type="button" value="TEST" onclick="test()"/>
+
+</body>
+
     {%- if site.plainwhite.analytics_id -%}
       <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.plainwhite.analytics_id }}"></script>
       <script>

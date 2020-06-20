@@ -7,35 +7,36 @@
 <meta charset="utf-8">
 
 <title>MessageBoard</title>
-
 </head>
 
 <body>
+  <script language="javascript" type="text/javascript">
+  var loc = location.href;
+  var n1 = loc.length;//地址的总长度
+  var n2 = loc.indexOf("=");//取得=号的位置
+  var id = decodeURI(loc.substr(n2+1, n1-n2));//从=号后面的内容
+  alert(id);
+  //document.write(id)
+  </script>
 
-<!-- <div class="placeholder">div1</div> -->
+  <!-- 来必力City版安装代码 -->
+  <div id="lv-container" data-id="city" data-uid="MTAyMC81MDU3Ni8yNzA1OQ==">
+  <script type="text/javascript">
+     (function(d, s) {
+         var j, e = d.getElementsByTagName(s)[0];
 
-<a id="MessageBoard" href="#" class="anchor">a1</a>
+         if (typeof LivereTower === 'function') { return; }
 
-<!-- <div class="placeholder">div2</div> -->
+         j = d.createElement(s);
+         j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+         j.async = true;
 
-<!-- 来必力City版安装代码 -->
-<div id="lv-container" data-id="city" data-uid="MTAyMC81MDU3Ni8yNzA1OQ==">
-<script type="text/javascript">
-   (function(d, s) {
-       var j, e = d.getElementsByTagName(s)[0];
-
-       if (typeof LivereTower === 'function') { return; }
-
-       j = d.createElement(s);
-       j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
-       j.async = true;
-
-       e.parentNode.insertBefore(j, e);
-   })(document, 'script');
-</script>
-<noscript>为正常使用来必力评论功能请激活JavaScript</noscript>
-</div>
-<!-- City版安装代码已完成 -->
+         e.parentNode.insertBefore(j, e);
+     })(document, 'script');
+  </script>
+  <noscript>为正常使用来必力评论功能请激活JavaScript</noscript>
+  </div>
+  <!-- City版安装代码已完成 -->
 
 </body>
 
